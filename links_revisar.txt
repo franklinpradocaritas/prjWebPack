@@ -1,0 +1,9 @@
+# outliers
+
+http://colingorrie.github.io/outlier-detection.html
+https://www.kdnuggets.com/2017/02/removing-outliers-standard-deviation-python.html
+
+# seleccion
+
+https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+https://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation
